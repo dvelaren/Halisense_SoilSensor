@@ -1,0 +1,31 @@
+# Syntax Coloring Map For SoilSensor Library
+
+# Datatypes (KEYWORD1)
+SoilSensor	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+readAllVariables	KEYWORD2
+readTemperature	KEYWORD2
+readHumidity	KEYWORD2
+readEC	KEYWORD2
+readPH	KEYWORD2
+readNitrogen	KEYWORD2
+readPhosphorus	KEYWORD2
+readPotassium	KEYWORD2
+getTemperature	KEYWORD2
+getHumidity	KEYWORD2
+getEC	KEYWORD2
+getPH	KEYWORD2
+getNitrogen	KEYWORD2
+getPhosphorus	KEYWORD2
+getPotassium	KEYWORD2
+isTemperatureFresh	KEYWORD2
+isHumidityFresh	KEYWORD2
+isECFresh	KEYWORD2
+isPHFresh	KEYWORD2
+isNitrogenFresh	KEYWORD2
+isPhosphorusFresh	KEYWORD2
+isPotassiumFresh	KEYWORD2
+
+# Constants (LITERAL1)
