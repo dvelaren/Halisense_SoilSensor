@@ -1,4 +1,4 @@
-# Syntax Coloring Map For SoilSensor Library
+# Syntax Coloring Map For Halisense_SoilSensor Library
 
 # Datatypes (KEYWORD1)
 SoilSensor	KEYWORD1
