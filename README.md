@@ -1,4 +1,4 @@
-# SoilSensor Library
+# Halisense SoilSensor Library for Arduino
 
 An Arduino library for interfacing with specialized soil sensors over serial communication. This library allows reading soil temperature, humidity, electrical conductivity, pH, nitrogen, phosphorus, and potassium levels from [Halisense 7 in 1 Sensor](https://www.jxct-iot.com/product/showproduct.php?id=197).
 
